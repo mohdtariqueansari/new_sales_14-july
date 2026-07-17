@@ -1,2 +1,2 @@
 Excel 5th lecture done, with conditional formatting,
-Day 6: Friday -- LOgical Statements
+Day 6: Friday -- Logical function with conditional statement
